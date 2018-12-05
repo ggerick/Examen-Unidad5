@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/bin/Debug/Examen-Unidad5.exe
+/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/bin/Debug/Examen-Unidad5.pdb
+/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/obj/x86/Debug/Examen-Unidad5.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/obj/x86/Debug/Examen-Unidad5.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/obj/x86/Debug/Examen-Unidad5.exe
+/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/obj/x86/Debug/Examen-Unidad5.pdb

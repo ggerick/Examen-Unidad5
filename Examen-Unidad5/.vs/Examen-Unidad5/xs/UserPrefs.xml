@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{604C37DC-6408-4362-9B1A-20040A1AD9FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Examen-Unidad5/Program.cs">
+    <Files>
+      <File FileName="Examen-Unidad5/Program.cs" Line="222" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/Program.cs" relfile="Examen-Unidad5/Program.cs" line="105" column="1" />
+      <Breakpoint enabled="false" file="/Users/AlanGarcia/Projects/Examen-Unidad5/Examen-Unidad5/Program.cs" relfile="Examen-Unidad5/Program.cs" line="108" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Examen-Unidad5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen-Unidad5", "Examen-Unidad5\Examen-Unidad5.csproj", "{604C37DC-6408-4362-9B1A-20040A1AD9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604C37DC-6408-4362-9B1A-20040A1AD9FE}.Debug|x86.ActiveCfg = Debug|x86
+		{604C37DC-6408-4362-9B1A-20040A1AD9FE}.Debug|x86.Build.0 = Debug|x86
+		{604C37DC-6408-4362-9B1A-20040A1AD9FE}.Release|x86.ActiveCfg = Release|x86
+		{604C37DC-6408-4362-9B1A-20040A1AD9FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
